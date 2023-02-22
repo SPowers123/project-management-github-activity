@@ -34,6 +34,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Bash Scripting [1]
 3.  Kubernetes [1]
 4.  Integrating into the Stack [1]
+5.  Display of Site Changes [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
