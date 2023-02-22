@@ -18,6 +18,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  Git Commands [1]
 3.  Project Management[2]
 4.  Bash Script [1]
+5.  Manage Issues  [1]
 
 #### Things we don't understand
 
