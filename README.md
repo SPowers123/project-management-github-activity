@@ -21,6 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  docker-compose.yml [1]
 2.  Siege[2]
 3.  Bash Script[1]
+4.  Kibana[1]
 
 #### Things we want to know next**
 1.  DevOps Duty [1]
