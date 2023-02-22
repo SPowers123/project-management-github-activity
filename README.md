@@ -13,17 +13,29 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 
 ### Your list should look like this:
 #### Things we understand**
-1.  Write bash scripts[1]
-2.  Manage Issues[1] 
-3.  Using watchtower and implementation[1]
+
+1.  Linux Commands [1]
+2.  Git Commands [1]
+3.  Project Management[1]
+4.  Bash Script [1]
+5.  Manage Issues  [1]
+6.  Watchtower [1]
+
 #### Things we don't understand
-1. I don't know anything[1]
-2. I don't know Seige[1]
-3. I don't know kibana[1]
+
+1.  docker-compose.yml [1]
+2.  Siege[2]
+3.  Bash Script[1]
+4.  Kibana[1]
+
 #### Things we want to know next**
-1.  How we effect and integrate into the Stack [1]
-2.  How are changes displayed on final site[1]
-3.  How does teraform work/what is terraforming[1]
+
+1.  DevOps Duty [1]
+2.  Bash Scripting [1]
+3.  Kubernetes [1]
+4.  Integrating into the Stack [1]
+5.  Display of Site Changes [1]
+6.  Terraforming [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
